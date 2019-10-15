@@ -1,0 +1,2 @@
+Given a wall
+find the minimum number of stroke required to finish painting it
