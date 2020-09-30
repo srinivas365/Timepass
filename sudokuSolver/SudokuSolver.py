@@ -52,3 +52,6 @@ def printInfo():
 
 def mannem():
     print("hello world from mannem")
+
+def master():
+    print("master master")
