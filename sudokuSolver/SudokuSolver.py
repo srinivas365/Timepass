@@ -44,3 +44,7 @@ print("[+]The Queestion is : \n")
 print(np.matrix(question))
 print("\n[+]The Solution is : \n")
 findSolution()
+
+
+def printInfo():
+    print("hello world from srinivas")
