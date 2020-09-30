@@ -48,3 +48,6 @@ findSolution()
 
 def printInfo():
     print("hello world from srinivas")
+
+def mannem():
+    print("hello world from mannem")
